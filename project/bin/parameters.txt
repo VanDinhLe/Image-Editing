@@ -1,0 +1,12 @@
+wom.pgm 11_histostretch.jpg opencv 2 0 0 200 200 histostrech 201 201 479 499 histostrech
+11.jpg 11_hough.jpg opencv 1 0 0 479 719 houghcir 5 3 3 30 100 1 1 40
+balls.jpg balls_hough.jpg opencv 1 0 0 479 600 houghcir 5 3 3 30 100 10 30 100
+tree.pgm tree_otsuhisto.jpg opencv 1 0 0 599 399 otsuhisto
+tree.pgm tree_otsugau.jpg opencv 1 0 0 599 399 otsugau 5 3 3
+tree.pgm tree_combine.jpg opencv 1 0 0 599 399 combine 5 3 3
+tree_otsuhisto.jpg tree_subtract.jpg opencv 1 0 0 599 399 subtract
+qr.png qr_output.jpg opencv 1 0 0 197 197 QRcode
+wom.pgm wom_histoequ.jpg opencv 1 0 0 479 499 histoequ
+wom.pgm wom_histstr.jpg opencv 1 0 0 479 499 histostrech
+wom.pgm wom_mystr.pgm 1 0 0 479 499 histo
+tree.pgm tree_otsu.jpg opencv 1 0 0 599 399 otsu
